@@ -1,0 +1,7 @@
+[
+    {"name" : "face-button", "link" : "./src/assets/face_button.png"},
+    {"name" : "diff-button", "link" : "./src/assets/diff_button.png"},
+    {"name" : "faces", "link" : "./src/assets/faces.png"},
+    {"name" : "numbers", "link" : "./src/assets/numbers.png"},
+    {"name" : "tiles", "link" : "./src/assets/tiles.png"}
+]
